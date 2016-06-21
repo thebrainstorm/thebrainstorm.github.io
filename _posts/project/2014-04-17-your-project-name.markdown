@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Count to 10"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Brainstorm
 categories:
 - project
 img: portfolio_08.jpg
