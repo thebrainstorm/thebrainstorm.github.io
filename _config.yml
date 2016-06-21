@@ -33,21 +33,13 @@ social:
     url: https://twitter.com/_brainstorm
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+email: brainstormgr@outlook.com
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
 members:
-  - name: 
-
   - name: George Lydakis
     position: co-Founder
     text: George Lydakis, born in Rhodes Greece, is an Electrical & Computer Engineering student at the University of Patras. He enjoys programming in various platforms and designing clean and functional interfaces.
@@ -79,7 +71,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Developing your World."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
