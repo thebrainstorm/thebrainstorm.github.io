@@ -26,16 +26,11 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
+
   - title: facebook
     url: https://www.facebook.com/Bra1nst0rm/
   - title: twitter
     url: https://twitter.com/_brainstorm
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -86,6 +81,5 @@ about: "Lorem Ipsum is simply dummy text of the printing and typesetting industr
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: "We believe in Quality over Quantity. We are a newly founded software – and a little bit of hardware – company. We studied Electrical & Computer Engineering. Passionate Programmers. Maniac Perfectionists."
+   
