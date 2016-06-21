@@ -60,15 +60,7 @@ members:
         url: https://twitter.com/stefanos990
  
 # Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Developing your World."
