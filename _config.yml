@@ -57,18 +57,18 @@ members:
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:lydakis.george@gmail.com
       - title: twitter
-        url: http://twitter.com/handle
+        url: https://twitter.com/ldkge
   - name: Stefanos Michael
     position: co-Founder
     text: wwwwy raiLorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team02.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:stefanos990@outlook.com
       - title: twitter
-        url: http://twitter.com/handle
+        url: https://twitter.com/stefanos990
   - name: Laura Sommers
     position: Who's that?
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
