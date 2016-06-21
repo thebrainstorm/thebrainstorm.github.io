@@ -47,14 +47,7 @@ tel: +34 8493-4893
 # Members information. Shown on About page.
 members:
   - name: 
-    position: 
-    text: 
-    img: 
-    social:
-      - title: envelope #use for email address
-        url: 
-      - title: twitter
-        url: 
+
   - name: George Lydakis
     position: co-Founder
     text: George Lydakis, born in Rhodes Greece, is an Electrical & Computer Engineering student at the University of Patras. He enjoys programming in various platforms and designing clean and functional interfaces.
