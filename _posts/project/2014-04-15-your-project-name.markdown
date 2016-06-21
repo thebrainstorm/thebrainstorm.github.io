@@ -12,11 +12,7 @@ carousel:
 - single02.jpg
 - single03.jpg
 tagged: Flat, UI, Development
-client: Wonder Corp.
-website: http://blacktie.co
+client: Windows Phone
+website: https://www.microsoft.com/en-us/store/apps/mytimer/9nblggh0gx34
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+A timer for your everyday life! Wanna boil an egg, cook some spaghetti and you don't know how much time does it take? Now there's an app for that!  myTimer has all the essential timers your life needs! Kitchen, FItness, Health, anything you can imagine!  What's new in version 2.0: - Minor UI fixes. - Custom timers support! - Editable time duration in default timers. - Time duration, now in clock style.
