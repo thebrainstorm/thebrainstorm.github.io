@@ -53,7 +53,7 @@ tel: +34 8493-4893
 members:
   - name: George Lydakis
     position: co-Founder
-    text: wwwy reLorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: George Lydakis, born in Rhodes Greece, is an Electrical & Computer Engineering student at the University of Patras. He enjoys programming in various platforms and designing clean and functional interfaces.
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -62,7 +62,8 @@ members:
         url: https://twitter.com/ldkge
   - name: Stefanos Michael
     position: co-Founder
-    text: wwwwy raiLorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: Stefanos Michael was born in a small town in Cyprus, called Paralimni. He studied Electrical & Computer Engineering at University of Patras, Greece. He knows a bunch of programming languages and he uses designing tools like a boss.
+Former Microsoft Student Partner, Tech Enthusiast, IoT
     img: team02.jpg
     social:
       - title: envelope #use for email address
