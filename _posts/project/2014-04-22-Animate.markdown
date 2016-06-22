@@ -1,0 +1,18 @@
+---
+layout: project
+title:  "Animate"
+date:   2014-04-25 16:54:46
+author: Brainstorm
+categories:
+- project
+img: portfolio_03.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Flat, UI, Development
+client: Windows Phone
+website: https://www.microsoft.com/en-us/store/games/animate/9nblggh09lkb
+---
+Hello, my name is Ani.  I live in a world where knowing a good trick is something worth of respect. I can shrink, I can bounce, I can fly. So..  Try me.  Change Log v.1.1: - Fixed minor bugs. - Minor interface changes.  Coming soon: more animations!

@@ -1,0 +1,18 @@
+---
+layout: project
+title:  "Write"
+date:   2014-04-25 16:54:46
+author: Brainstorm
+categories:
+- project
+img: portfolio_02.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Flat, UI, Development
+client: Windows & Windows Phone
+website: https://www.microsoft.com/en-us/store/apps/write/9nblggh09lkc
+---
+Write is a text editor focused on writing. No distractions. Open it and just Write. Features: - Clean unobtrusive interface - Simple use  What's new: - Landscape Mode now is supported. - New Line bug fixed.  Coming Up: - Markup language support
