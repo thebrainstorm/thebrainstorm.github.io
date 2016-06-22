@@ -2,10 +2,10 @@
 
 # Site settings
 title: Brainstorm
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Developing your world!"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://thebrainstorm.gr"
 
 # Build settings
 markdown: kramdown
@@ -63,7 +63,7 @@ members:
 
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Developing your World."
+about: "Developing your World!"
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
