@@ -1,71 +1,27 @@
-### GENERAL SETTINGS ###
-
-# Site settings
-title: Brainstorm
-description: "Developing your world!"
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "http://thebrainstorm.gr"
-
-# Build settings
+---
+title: Composers
+timezone: Europe/Berlin
+collections:
+  posts:
+    title: Posts
+    output: true
+  steps:
+    title: Steps
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: steps
+  values:
+    title: 
+    date: 2016-09-01 00:00:00 -0700
 markdown: kramdown
-permalink: /:categories/:title
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
-
-colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031" 
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#384452" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
-  footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
-  
-  
-### CONTACT SETTINGS ###
-
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
-social:
-
-  - title: facebook
-    url: https://www.facebook.com/Bra1nst0rm/
-  - title: twitter
-    url: https://twitter.com/_brainstorm
-    
-# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-email: brainstormgr@outlook.com
-
-
-### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
-# Members information. Shown on About page.
-members:
-  - name: George Lydakis
-    position: co-Founder
-    text: George Lydakis, born in Rhodes Greece, is an Electrical & Computer Engineering student at the University of Patras. He enjoys programming in various platforms and designing clean and functional interfaces.
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:lydakis.george@gmail.com
-      - title: twitter
-        url: https://twitter.com/ldkge
-  - name: Stefanos Michael
-    position: co-Founder
-    text: Stefanos Michael was born in a small town in Cyprus, called Paralimni. He studied Electrical & Computer Engineering at University of Patras, Greece. He knows a bunch of programming languages and he uses designing tools like a boss.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:stefanos990@outlook.com
-      - title: twitter
-        url: https://twitter.com/stefanos990
- 
-# Clients information. Shown on Home and About pages.
-
-    
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Developing your World!"
-
-# Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: "We believe in Quality over Quantity. We are a newly founded software – and a little bit of hardware – company. We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists."
-   
+highlighter: rouge
+lsi: false
+description: your resume
+baseurl: "/jekyll-timeline"
+url: http://himsel.me
+color: "#f2f2f2"
