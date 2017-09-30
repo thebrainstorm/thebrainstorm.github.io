@@ -3,7 +3,7 @@
 <script>
     $(document).ready(function () {
         $.fn.fullpage({
-            anchors: ['bio', 'social'],
+            anchors: ['home', 'apps', 'about'],
             css3: true,
             fixedElements: '.site-notice',
             menu: '#menu',
@@ -20,14 +20,20 @@
                 if (index === 2) {
                     $('#section1 h1, #section1 .social-links').removeClass('hidden').addClass('fadeInUp');
                 }
+                if (index === 3) {
+                    $('#section2 h1, #section2 .social-links').removeClass('hidden').addClass('fadeInUp');
+                }
             },
 
             onLeave: function (index, direction) {
                 if (index == 1 && direction == 'down') {
                     $('#section0 .headings, #section0 .btn-continue').addClass('hidden').removeClass('bounce fadeInDown fadeInLeft');
                 }
-                if (index == 2 && direction == 'up') {
+                if (index == 2 && direction == 'down') {
                     $('#section1 h1, #section1 .social-links').addClass('hidden').removeClass('fadeInUp');
+                }
+                if (index == 3 && direction == 'up') {
+                    $('#section2 h1, #section2 .social-links').addClass('hidden').removeClass('fadeInUp');
                 }
             }
         });
