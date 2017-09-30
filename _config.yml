@@ -52,6 +52,11 @@ home:
   section3: <img src="/assets/images/browser.png" alt="logo">   
             <div class="social-links"><a class="ico-facebook btn" href="https://www.facebook.com/Bra1nst0rm" title="Visit us on Facebook"></a><a class="ico-twitter btn" href="https://twitter.com/_brainstorm" title="Follow us on Twitter"></a></div>
 
+apps:
+  section1:
+  section2:
+  section3:
+    
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
