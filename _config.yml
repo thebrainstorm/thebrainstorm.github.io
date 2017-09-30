@@ -53,7 +53,7 @@ home:
             <div class="social-links"><a class="ico-facebook btn" href="https://www.facebook.com/Bra1nst0rm" title="Visit us on Facebook" target="_blank"></a><a class="ico-twitter btn" href="https://twitter.com/_brainstorm" title="Follow us on Twitter" target="_blank"></a></div>
 
 apps:
-  section1: <h2>Our Work</h2>
+  section1: <h2></h2>
   section2:   
   section3: <div><img src="/assets/images/project/portfolio_01.jpg" alt="Illuminate" style="width:300px; height:300px;">
                  <img src="/assets/images/project/portfolio_02.jpg" alt="Illuminate" style="width:300px; height:300px;">
@@ -75,7 +75,7 @@ about:
                  <p>We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists.</p>
             </div>
   section3:            
-            <div style="margin: 0 auto;">
+            <div style="margin:0 auto;">
                  <figure style="float:left;">
                         <a href="https://www.facebook.com/ldkge" target="_blank"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;"></a>
                         <figcaption>George Lydakis, co-Founder</figcaption>
