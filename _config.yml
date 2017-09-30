@@ -75,7 +75,7 @@ about:
                  <p>We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists.</p>
             </div>
   section3:            
-            <div>
+            <div style="margin: 0 auto;">
                  <figure style="float:left;">
                         <a href="https://www.facebook.com/ldkge" target="_blank"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;"></a>
                         <figcaption>George Lydakis, co-Founder</figcaption>
