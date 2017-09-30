@@ -76,13 +76,9 @@ about:
             </div>
   section3:            
             <div>
-                 <a href="https://www.facebook.com/ldkge" target="_blank"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:150px; height:150px;"></a>
-                 <p>George Lydakis, born in Rhodes Greece.</p>
-                 <p>He enjoys programming in various platforms and designing clean and functional interfaces.</p>
+                 <a href="https://www.facebook.com/ldkge" target="_blank"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;"></a>
+                 <a href="https://www.facebook.com/stefanos990" target="_blank"><img src="/assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px;"></a>
 
-                 <a href="https://www.facebook.com/stefanos990" target="_blank"><img src="/assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:150px; height:150px;"></a>
-                 <p>Stefanos Michael was born in a small town in Cyprus, called Paralimni.</p>
-                 <p>He knows a bunch of programming languages and he uses designing tools like a boss.</p>
             </div> 
 
 blog:
