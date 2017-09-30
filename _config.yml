@@ -53,7 +53,7 @@ home:
             <div class="social-links"><a class="ico-facebook btn" href="https://www.facebook.com/Bra1nst0rm" title="Visit us on Facebook" target="_blank"></a><a class="ico-twitter btn" href="https://twitter.com/_brainstorm" title="Follow us on Twitter" target="_blank"></a></div>
 
 apps:
-  section1: <h2></h2>
+  section1: <h2>Our Work</h2>
   section2: <div><img src="/assets/images/project/portfolio_01.jpg" alt="Illuminate" style="width:300px; height:300px;">
                  <img src="/assets/images/project/portfolio_02.jpg" alt="Illuminate" style="width:300px; height:300px;">
                  <img src="/assets/images/project/portfolio_03.jpg" alt="Illuminate" style="width:300px; height:300px;">
@@ -69,22 +69,20 @@ apps:
             </div>     
   section3:
 about:
-  section1: <h2>Who we are</h2>
+  section1: <h2>Who We Are</h2>
   section2: <div>
                  <p>We believe in Quality over Quantity. We are a newly founded software – and a little bit of hardware – company.</p>
                  <p>We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists.</p>
             </div>
   section3:            
             <div>
-                 <div>
+                 <figure>
                         <a href="https://www.facebook.com/ldkge" target="_blank"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;"></a>
-                        George Lydakis, co-Founder
-                 </div>
+                        <figcaption>George Lydakis, co-Founder</figcaption>
 
-                 <div>
                         <a href="https://www.facebook.com/stefanos990" target="_blank"><img src="/assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px;"></a>
-                        Stefanos Michael, co-Founder
-                 </div>
+                        <figcaption>Stefanos Michael, co-Founder</figcaption>
+                 </figure>
             </div> 
 
 blog:
