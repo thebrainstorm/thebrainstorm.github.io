@@ -76,7 +76,7 @@ about:
             </div>
   section3:            
             <div>
-              <table align="center" width="600" border="0" cellpadding="5">
+              <table align="center" width="600" border="0" cellpadding="5" overflow-x="auto">
 
               <tr>
 
