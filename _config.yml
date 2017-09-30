@@ -49,7 +49,7 @@ author:
 home:
   section1: <h1>Brainstorm</h1>
   section2: <h2>Here lies Brainstorm.</h2>
-  section3: <div class="social-links"><a class="ico-facebook btn" href="https://www.facebook.com/Bra1nst0rm" title="Visit us on Facebook"></a><a class="ico-twitter btn" href="https://twitter.com/_brainstorm" title="Follow us on Twitter"></a></div>        
+  section3: <img src="/assets/images/browser.png" alt="logo" style="width:304px;height:228px;">        
 
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
