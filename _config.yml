@@ -53,7 +53,7 @@ home:
             <div class="social-links"><a class="ico-facebook btn" href="https://www.facebook.com/Bra1nst0rm" title="Visit us on Facebook"></a><a class="ico-twitter btn" href="https://twitter.com/_brainstorm" title="Follow us on Twitter"></a></div>
 
 apps:
-  section1: <h1>Our Work</h1>
+  section1: <h2>Our Work</h2>
   section2: <div><img src="/assets/images/project/portfolio01.png" alt="Illuminate">
                  <img src="/assets/images/project/portfolio02.png" alt="Illuminate">
                  <img src="/assets/images/project/portfolio03.png" alt="Illuminate">
@@ -64,6 +64,11 @@ apps:
                  <img src="/assets/images/project/portfolio08.png" alt="Illuminate">
                  <img src="/assets/images/project/portfolio09.png" alt="Illuminate">
                  <img src="/assets/images/project/portfolio10.png" alt="Illuminate">   
+            </div>     
+  section3:
+abouts:
+  section1: <h2>About Us</h2>
+  section2: <div> 
             </div>     
   section3:
 
