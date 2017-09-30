@@ -76,15 +76,15 @@ about:
             </div>
   section3:            
             <div>
-                 <figure>
+                 <div>
                         <a href="https://www.facebook.com/ldkge" target="_blank"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;"></a>
-                        <figcaption>George Lydakis, co-Founder</figcaption>
-                 </figure>
+                        George Lydakis, co-Founder
+                 </div>
 
-                 <figure>
+                 <div>
                         <a href="https://www.facebook.com/stefanos990" target="_blank"><img src="/assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px;"></a>
-                        <figcaption>Stefanos Michael, co-Founder</figcaption>
-                 </figure>
+                        Stefanos Michael, co-Founder
+                 </div>
             </div> 
 
 blog:
