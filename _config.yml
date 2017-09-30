@@ -54,7 +54,8 @@ home:
 
 apps:
   section1: <h2>Our Work</h2>
-  section2: <div><img src="/assets/images/project/portfolio_01.jpg" alt="Illuminate" style="width:300px; height:300px;">
+  section2:   
+  section3: <div><img src="/assets/images/project/portfolio_01.jpg" alt="Illuminate" style="width:300px; height:300px;">
                  <img src="/assets/images/project/portfolio_02.jpg" alt="Illuminate" style="width:300px; height:300px;">
                  <img src="/assets/images/project/portfolio_03.jpg" alt="Illuminate" style="width:300px; height:300px;">
                  <img src="/assets/images/project/portfolio_04.jpg" alt="Illuminate" style="width:300px; height:300px;">
@@ -66,8 +67,7 @@ apps:
                  <img src="/assets/images/project/portfolio_08.jpg" alt="Illuminate" style="width:300px; height:300px;">
                  <img src="/assets/images/project/portfolio_09.jpg" alt="Illuminate" style="width:300px; height:300px;">
                  <img src="/assets/images/project/portfolio_10.jpg" alt="Illuminate" style="width:300px; height:300px;">
-            </div>     
-  section3:
+            </div>  
 about:
   section1: <h2>Who We Are</h2>
   section2: <div>
@@ -76,10 +76,12 @@ about:
             </div>
   section3:            
             <div>
-                 <figure>
+                 <figure style="float:left;">
                         <a href="https://www.facebook.com/ldkge" target="_blank"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;"></a>
                         <figcaption>George Lydakis, co-Founder</figcaption>
+                 </figure>
 
+                 <figure style="float:left;">
                         <a href="https://www.facebook.com/stefanos990" target="_blank"><img src="/assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px;"></a>
                         <figcaption>Stefanos Michael, co-Founder</figcaption>
                  </figure>
