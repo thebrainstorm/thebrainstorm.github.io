@@ -54,19 +54,19 @@ home:
 
 apps:
   section1: <h2>Our Work</h2>
-  section2: <div><img src="/assets/images/project/portfolio_01.jpg" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_02.jpg" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_03.jpg" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_04.jpg" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_05.jpg" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_06.jpg" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_07.jpg" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_08.jpg" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_09.jpg" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_10.jpg" alt="Illuminate">   
+  section2: <div><img src="/assets/images/project/portfolio_01.jpg" alt="Illuminate" style="width:50%; height:50%;">
+                 <img src="/assets/images/project/portfolio_02.jpg" alt="Illuminate" style="width:50%; height:50%;">
+                 <img src="/assets/images/project/portfolio_03.jpg" alt="Illuminate" style="width:50%; height:50%;">
+                 <img src="/assets/images/project/portfolio_04.jpg" alt="Illuminate" style="width:50%; height:50%;">
+                 <img src="/assets/images/project/portfolio_05.jpg" alt="Illuminate" style="width:50%; height:50%;">
+                 <img src="/assets/images/project/portfolio_06.jpg" alt="Illuminate" style="width:50%; height:50%;">
+                 <img src="/assets/images/project/portfolio_07.jpg" alt="Illuminate" style="width:50%; height:50%;">
+                 <img src="/assets/images/project/portfolio_08.jpg" alt="Illuminate" style="width:50%; height:50%;">
+                 <img src="/assets/images/project/portfolio_09.jpg" alt="Illuminate" style="width:50%; height:50%;">
+                 <img src="/assets/images/project/portfolio_10.jpg" alt="Illuminate" style="width:50%; height:50%;">
             </div>     
   section3:
-abouts:
+about:
   section1: <h2>About Us</h2>
   section2: <div> 
             </div>     
