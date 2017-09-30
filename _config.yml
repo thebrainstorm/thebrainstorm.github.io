@@ -70,7 +70,7 @@ apps:
   section3:
 about:
   section1: <h2>Who we are</h2>
-  section2: <div class="social-links">
+  section2: <div>
                  <a href="https://www.facebook.com/ldkge"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:300px; height:300px;"></a>
                  <a href="https://www.facebook.com/stefanos990"><img src="/assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:300px; height:300px;"></a>
             </div>   
