@@ -54,16 +54,16 @@ home:
 
 apps:
   section1: <h2>Our Work</h2>
-  section2: <div><img src="/assets/images/project/portfolio_01.png" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_02.png" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_03.png" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_04.png" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_05.png" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_06.png" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_07.png" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_08.png" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_09.png" alt="Illuminate">
-                 <img src="/assets/images/project/portfolio_10.png" alt="Illuminate">   
+  section2: <div><img src="/assets/images/project/portfolio_01.jpg" alt="Illuminate">
+                 <img src="/assets/images/project/portfolio_02.jpg" alt="Illuminate">
+                 <img src="/assets/images/project/portfolio_03.jpg" alt="Illuminate">
+                 <img src="/assets/images/project/portfolio_04.jpg" alt="Illuminate">
+                 <img src="/assets/images/project/portfolio_05.jpg" alt="Illuminate">
+                 <img src="/assets/images/project/portfolio_06.jpg" alt="Illuminate">
+                 <img src="/assets/images/project/portfolio_07.jpg" alt="Illuminate">
+                 <img src="/assets/images/project/portfolio_08.jpg" alt="Illuminate">
+                 <img src="/assets/images/project/portfolio_09.jpg" alt="Illuminate">
+                 <img src="/assets/images/project/portfolio_10.jpg" alt="Illuminate">   
             </div>     
   section3:
 abouts:
