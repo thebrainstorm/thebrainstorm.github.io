@@ -70,11 +70,15 @@ apps:
   section3:
 about:
   section1: <h2>Who we are</h2>
-  section2: <div>
+  section2: <div>We believe in Quality over Quantity. We are a newly founded software – and a little bit of hardware – company. We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists.</div>
+  section3:            
+            <div>
                  <a href="https://www.facebook.com/ldkge" target="_blank"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:150px; height:150px;"></a>
+                 <p>George Lydakis, born in Rhodes Greece, is an Electrical & Computer Engineering student at the University of Patras. He enjoys programming in various platforms and designing clean and functional interfaces.</p>
+                 
                  <a href="https://www.facebook.com/stefanos990" target="_blank"><img src="/assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:150px; height:150px;"></a>
-            </div>   
-  section3:
+                 <p>Stefanos Michael was born in a small town in Cyprus, called Paralimni. He studied Electrical & Computer Engineering at University of Patras, Greece. He knows a bunch of programming languages and he uses designing tools like a boss.</p>
+            </div> 
 
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
