@@ -74,33 +74,30 @@ about:
                  <p>We believe in Quality over Quantity. We are a newly founded software – and a little bit of hardware – company.</p>
                  <p>We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists.</p>
             </div>
-  section3:
-            <div class="row">
-              <div class="column">
-                <div class="card">
-                  <img src="../assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;">
-                  <div class="container">
-                    <h2>George Lydakis</h2>
-                    <p class="title">co-Founder</p>
-                    <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                    <p>example@example.com</p>
-                    <p><button class="button">Contact</button></p>
-                  </div>
-                </div>
-              </div>
+  section3: <div>
+              <table width="400" border="0" cellpadding="5" align="center">
 
-              <div class="column">
-                <div class="card">
-                  <img src="../assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px;">
-                  <div class="container">
-                    <h2>Stefanos Michael</h2>
-                    <p class="title">co-Founder</p>
-                    <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                    <p>example@example.com</p>
-                    <p><button class="button">Contact</button></p>
-                  </div>
-                </div>
-              </div>
+              <tr>
+
+              <td align="center" valign="center">
+              <img src="../assets/images/members/team01.jpg" alt="George Lydakis" width="200px" height="200px" />
+              <br />
+              <b>George Lydakis</b>
+              <br />
+              co-Founder
+              </td>
+
+              <td align="center" valign="center">
+              <img src="../assets/images/members/team02.jpg" alt="Stefanos Michael" width="200px" height="200px" />
+              <br />
+              <b>Stefanos Michael</b>
+              <br />
+              co-Founder
+              </td>
+
+              </tr>
+
+              </table>
             </div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
