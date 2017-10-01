@@ -75,6 +75,7 @@ about:
                  <p>We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists.</p>
             </div>
   section3:            
+<<<<<<< HEAD
             <div class="container">
              <div class="row">
               <div class="col-md-4 col-sm-4">
@@ -92,6 +93,19 @@ about:
                   <a href="#"><i class="fa fa-twitter"></i></a>
                   <a href="#"><i class="fa fa-google-plus"></i></a>
                  </div>
+=======
+            <div>
+              <div class="card">
+                <img src="../assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;">
+                <div class="container">
+                  <b>George Lydakis</b> 
+                  <p>co-Founder</p> 
+                  <div class="social-btns">
+                    <a class="btn facebook" href="#"><i class="fa fa-facebook"></i></a>
+                    <a class="btn twitter" href="#"><i class="fa fa-twitter"></i></a>
+                    <a class="btn google" href="#"><i class="fa fa-google"></i></a>
+                  </div>
+>>>>>>> parent of 8e6df56... fb
                 </div>
                </div>
                <div class="team-title">
@@ -99,10 +113,23 @@ about:
                 <span>founder &amp; ceo</span>
                </div>
               </div>
+<<<<<<< HEAD
               <div class="col-md-4 col-sm-4">
                <div class="team-member">
                 <div class="team-img">
                  <img src="https://image.freepik.com/free-photo/elegant-man-with-thumbs-up_1149-1595.jpg" alt="team member" class="img-responsive">
+=======
+              <div class="card">
+                <img src="../assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px;">
+                <div class="container">
+                  <b>Stefanos Michael</b> 
+                  <p>co-Founder</p>
+                  <div class="social-btns">
+                    <a class="btn facebook" href="#"><i class="fa fa-facebook"></i></a>
+                    <a class="btn twitter" href="#"><i class="fa fa-twitter"></i></a>
+                    <a class="btn google" href="#"><i class="fa fa-google"></i></a>
+                  </div>
+>>>>>>> parent of 8e6df56... fb
                 </div>
                 <div class="team-hover">
                  <div class="desk">
