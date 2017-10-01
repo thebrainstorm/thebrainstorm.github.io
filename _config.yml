@@ -76,7 +76,6 @@ about:
             </div>
   section3:            
             <div>
-            <figure>
               <figure>
                 <img src="/assets/images/members/team01.jpg">
                 <div class="contact">
@@ -85,8 +84,7 @@ about:
                   <a href="https://plus.google.com/+GeorgeLydakis" target="_blank" class="gp"></a>
                   <a href="http://ldkge.com/" target="_blank" class="ma"></a>
                 </div>
-              </figure>
-              <figcaption>George Lydakis, co-Founder</figcaption>
+                <div>George Lydakis, co-Founder</div>
               </figure>
               <figure>
                 <img src="/assets/images/members/team02.jpg">
@@ -96,8 +94,8 @@ about:
                   <a href="https://plus.google.com/105481117884906005096" target="_blank" class="gp"></a>
                   <a href="http://stefanos990.com/" target="_blank" class="ma"></a>
                 </div>
+                <div>Stefanos Michael, co-Founder</div>
               </figure>
-              Stefanos Michael, co-Founder
             </div> 
 
 blog:
