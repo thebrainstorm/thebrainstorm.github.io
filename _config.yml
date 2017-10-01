@@ -77,29 +77,26 @@ about:
   section3:            
             <div>
               <figure>
-                <img src="https://leadergamer.com.tr/wp-content/themes/lgm/images/default_user.jpg">
+                <img src="/assets/images/members/team01.jpg">
                 <div class="contact">
-                  <a href="" class="tw"></a>
-                  <a href="" class="fb"></a>
-                  <a href="" class="gp"></a>
-                  <a href="" class="ma"></a>
+                  <a href="https://www.twitter.com/ldkge" target="_blank" class="tw"></a>
+                  <a href="https://www.facebook.com/ldkge" target="_blank" class="fb"></a>
+                  <a href="https://www.facebook.com/ldkge" target="_blank" class="gp"></a>
+                  <a href="https://www.facebook.com/ldkge" target="_blank"" class="ma"></a>
                 </div>
+                George Lydakis, co-Founder
               </figure>
 
               <figure>
-                <img src="https://leadergamer.com.tr/wp-content/themes/lgm/images/default_user.jpg">
+                <img src="/assets/images/members/team02.jpg">
                 <div class="contact">
-                  <a href="" class="tw"></a>
-                  <a href="" class="fb"></a>
-                  <a href="" class="gp"></a>
-                  <a href="" class="ma"></a>
+                  <a href="https://www.twitter.com/stefanos990" target="_blank" class="tw"></a>
+                  <a href="https://www.facebook.com/stefanos990" target="_blank" class="fb"></a>
+                  <a href="https://www.facebook.com/stefanos990" target="_blank" class="gp"></a>
+                  <a href="https://www.facebook.com/stefanos990" target="_blank"" class="ma"></a>
                 </div>
+                Stefanos Michael, co-Founder
               </figure>
-                <a href="https://www.facebook.com/ldkge" target="_blank"><img src="/assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;"></a>
-                <br>George Lydakis, co-Founder
-
-                <a href="https://www.facebook.com/stefanos990" target="_blank"><img src="/assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px;"></a>
-                <br>Stefanos Michael, co-Founder
             </div> 
 
 blog:
