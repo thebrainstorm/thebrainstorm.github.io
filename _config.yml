@@ -75,17 +75,45 @@ about:
                  <p>We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists.</p>
             </div>
   section3:
-           <div>
-                <figure>
-                  <img src="../assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px"/>
-                  <figcaption>George Lydakis, co-Founder</figcaption>
-                </figure>
+            <div class="row">
+              <div class="column">
+                <div class="card">
+                  <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+                  <div class="container">
+                    <h2>Jane Doe</h2>
+                    <p class="title">CEO & Founder</p>
+                    <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                    <p>example@example.com</p>
+                    <p><button class="button">Contact</button></p>
+                  </div>
+                </div>
+              </div>
 
-                <figure>
-                  <img src="../assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px"/>
-                  <figcaption>Stefanos Michael, co-Founder</figcaption>
-                </figure>
-           </div>
+              <div class="column">
+                <div class="card">
+                  <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+                  <div class="container">
+                    <h2>Mike Ross</h2>
+                    <p class="title">Art Director</p>
+                    <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                    <p>example@example.com</p>
+                    <p><button class="button">Contact</button></p>
+                  </div>
+                </div>
+              </div>
+              <div class="column">
+                <div class="card">
+                  <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+                  <div class="container">
+                    <h2>John Doe</h2>
+                    <p class="title">Designer</p>
+                    <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                    <p>example@example.com</p>
+                    <p><button class="button">Contact</button></p>
+                  </div>
+                </div>
+              </div>
+            </div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
