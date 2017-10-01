@@ -79,15 +79,25 @@ about:
               <div class="card">
                 <img src="../assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;">
                 <div class="container">
-                  <h4><b>George Lydakis</b></h4> 
+                  <b>George Lydakis</b> 
                   <p>co-Founder</p> 
+                  <div class="social-btns">
+                    <a class="btn facebook" href="#"><i class="fa fa-facebook"></i></a>
+                    <a class="btn twitter" href="#"><i class="fa fa-twitter"></i></a>
+                    <a class="btn google" href="#"><i class="fa fa-google"></i></a>
+                  </div>
                 </div>
               </div>
               <div class="card">
                 <img src="../assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px;">
                 <div class="container">
-                  <h4><b>Stefanos Michael</b></h4> 
-                  <p>co-Founder</p> 
+                  <b>Stefanos Michael</b> 
+                  <p>co-Founder</p>
+                  <div class="social-btns">
+                    <a class="btn facebook" href="#"><i class="fa fa-facebook"></i></a>
+                    <a class="btn twitter" href="#"><i class="fa fa-twitter"></i></a>
+                    <a class="btn google" href="#"><i class="fa fa-google"></i></a>
+                  </div>
                 </div>
               </div>
             </div> 
