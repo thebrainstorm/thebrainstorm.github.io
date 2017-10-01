@@ -75,7 +75,29 @@ about:
                  <p>We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists.</p>
             </div>
   section3:
+           <div>
+                <table width="500" border="0" cellpadding="5">
 
+                <tr>
+
+                <td align="center" valign="center">
+                <img src="../asssets/images/members/team01.jpg" alt="George Lydakis" />
+                <br />
+                George Lydakis
+                co-Founder
+                </td>
+
+                <td align="center" valign="center">
+                <img src="../asssets/images/members/team02.jpg" alt="Stefanos Michael" />
+                <br />
+                Stefanos Michael
+                co-Founder
+                </td>
+
+                </tr>
+
+                </table>
+           </div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
