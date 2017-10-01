@@ -74,29 +74,32 @@ about:
                  <p>We believe in Quality over Quantity. We are a newly founded software – and a little bit of hardware – company.</p>
                  <p>We studied Electrical & Computer Engineering at the University of Patras. Passionate Programmers. Maniac Perfectionists.</p>
             </div>
-  section3:            
-            <div>
-              <figure>
-                <img src="/assets/images/members/team01.jpg">
-                <div class="contact">
-                  <a href="https://www.facebook.com/ldkge" target="_blank" class="fb"></a>
-                  <a href="https://www.twitter.com/ldkge" target="_blank" class="tw"></a>
-                  <a href="https://plus.google.com/+GeorgeLydakis" target="_blank" class="gp"></a>
-                  <a href="http://ldkge.com/" target="_blank" class="ma"></a>
-                </div>
-                <div>George Lydakis, co-Founder</div>
-              </figure>
-              <figure>
-                <img src="/assets/images/members/team02.jpg">
-                <div class="contact">
-                  <a href="https://www.facebook.com/stefanos990" target="_blank" class="fb"></a>
-                  <a href="https://www.twitter.com/stefanos990" target="_blank" class="tw"></a>
-                  <a href="https://plus.google.com/105481117884906005096" target="_blank" class="gp"></a>
-                  <a href="http://stefanos990.com/" target="_blank" class="ma"></a>
-                </div>
-                <div>Stefanos Michael, co-Founder</div>
-              </figure>
-            </div> 
+  section3: <span>           
+              <div>
+                <figure>
+                  <img src="/assets/images/members/team01.jpg">
+                  <div class="contact">
+                    <a href="https://www.facebook.com/ldkge" target="_blank" class="fb"></a>
+                    <a href="https://www.twitter.com/ldkge" target="_blank" class="tw"></a>
+                    <a href="https://plus.google.com/+GeorgeLydakis" target="_blank" class="gp"></a>
+                    <a href="http://ldkge.com/" target="_blank" class="ma"></a>
+                  </div>
+                </figure>
+              George Lydakis, co-Founder
+              </div>
+              <div>
+                <figure>
+                  <img src="/assets/images/members/team02.jpg">
+                  <div class="contact">
+                    <a href="https://www.facebook.com/stefanos990" target="_blank" class="fb"></a>
+                    <a href="https://www.twitter.com/stefanos990" target="_blank" class="tw"></a>
+                    <a href="https://plus.google.com/105481117884906005096" target="_blank" class="gp"></a>
+                    <a href="http://stefanos990.com/" target="_blank" class="ma"></a>
+                  </div>
+                </figure>
+              Stefanos Michael, co-Founder
+              </div> 
+            <span>
 
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
