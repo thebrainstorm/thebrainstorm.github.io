@@ -76,26 +76,13 @@ about:
             </div>
   section3:            
             <div>
-              <figure>
-                <img src="/assets/images/members/team01.jpg">
-                <div class="contact">
-                  <a href="https://www.facebook.com/ldkge" target="_blank" class="fb"></a>
-                  <a href="https://www.twitter.com/ldkge" target="_blank" class="tw"></a>
-                  <a href="https://plus.google.com/+GeorgeLydakis" target="_blank" class="gp"></a>
-                  <a href="http://ldkge.com/" target="_blank" class="ma"></a>
+              <div class="card">
+                <img src="../assets/images/members/team01.png" alt="Avatar" style="width:100%">
+                <div class="container">
+                  <h4><b>John Doe</b></h4> 
+                  <p>Architect & Engineer</p> 
                 </div>
-                <div>George Lydakis, co-Founder</div>
-              </figure>
-              <figure>
-                <img src="/assets/images/members/team02.jpg">
-                <div class="contact">
-                  <a href="https://www.facebook.com/stefanos990" target="_blank" class="fb"></a>
-                  <a href="https://www.twitter.com/stefanos990" target="_blank" class="tw"></a>
-                  <a href="https://plus.google.com/105481117884906005096" target="_blank" class="gp"></a>
-                  <a href="http://stefanos990.com/" target="_blank" class="ma"></a>
-                </div>
-                <div>Stefanos Michael, co-Founder</div>
-              </figure>
+              </div>
             </div> 
 
 blog:
