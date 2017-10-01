@@ -77,6 +77,7 @@ about:
   section3:            
             <div>
               <figure>
+                <figcaption>George Lydakis, co-Founder</figcaption>
                 <img src="/assets/images/members/team01.jpg">
                 <div class="contact">
                   <a href="https://www.facebook.com/ldkge" target="_blank" class="fb"></a>
@@ -84,11 +85,10 @@ about:
                   <a href="https://plus.google.com/+GeorgeLydakis" target="_blank" class="gp"></a>
                   <a href="http://ldkge.com/" target="_blank" class="ma"></a>
                 </div>
-                <div>George Lydakis, co-Founder</div>
-                <figcaption>George Lydakis, co-Founder</figcaption>
               </figure>
 
               <figure>
+                <figcaption>Stefanos Michael, co-Founder</figcaption>
                 <img src="/assets/images/members/team02.jpg">
                 <div class="contact">
                   <a href="https://www.facebook.com/stefanos990" target="_blank" class="fb"></a>
@@ -96,7 +96,7 @@ about:
                   <a href="https://plus.google.com/105481117884906005096" target="_blank" class="gp"></a>
                   <a href="http://stefanos990.com/" target="_blank" class="ma"></a>
                 </div>
-                <figcaption>Stefanos Michael, co-Founder</figcaption>
+
               </figure>
             </div> 
 
