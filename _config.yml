@@ -82,7 +82,7 @@ about:
                   <b>George Lydakis</b> 
                   <p>co-Founder</p> 
                   <div class="social-btns">
-                    <a class="btn facebook" href="#"><i class="fa fa-facebook"></i></a>
+                    <a class="btn facebook" href=""><i class="fa fa-facebook"></i></a>
                     <a class="btn twitter" href="#"><i class="fa fa-twitter"></i></a>
                     <a class="btn google" href="#"><i class="fa fa-google"></i></a>
                   </div>
@@ -94,7 +94,7 @@ about:
                   <b>Stefanos Michael</b> 
                   <p>co-Founder</p>
                   <div class="social-btns">
-                    <a class="btn facebook" href="#"><i class="fa fa-facebook"></i></a>
+                    <a class="btn facebook" href="https://www.facebook.com/stefanos990" target="_blank"><i class="fa fa-facebook"></i></a>
                     <a class="btn twitter" href="#"><i class="fa fa-twitter"></i></a>
                     <a class="btn google" href="#"><i class="fa fa-google"></i></a>
                   </div>
