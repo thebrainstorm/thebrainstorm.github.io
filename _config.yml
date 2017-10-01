@@ -80,7 +80,7 @@ about:
                 <div class="card">
                   <img src="../assets/images/members/team01.jpg" alt="George Lydakis" style="width:200px; height:200px;">
                   <div class="container">
-                    <h2>Jane Doe</h2>
+                    <h2>George Lydakis</h2>
                     <p class="title">co-Founder</p>
                     <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                     <p>example@example.com</p>
@@ -93,7 +93,7 @@ about:
                 <div class="card">
                   <img src="../assets/images/members/team02.jpg" alt="Stefanos Michael" style="width:200px; height:200px;">
                   <div class="container">
-                    <h2>John Doe</h2>
+                    <h2>Stefanos Michael</h2>
                     <p class="title">co-Founder</p>
                     <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                     <p>example@example.com</p>
