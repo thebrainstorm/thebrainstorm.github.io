@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: thebrainstorm.gr # the base hostname & protocol for your site, e.g. http://example.com
+url: https://thebrainstorm.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Brainstorm
 description: "Developing your world!"
